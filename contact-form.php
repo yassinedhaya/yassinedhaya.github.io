@@ -1,4 +1,4 @@
-<?php
+/*<?php
 
 $name= $_POST['name'];
 $emailHelp= $_POST['emailHelp'];
@@ -51,4 +51,4 @@ else{
 echo json_encode(array('status'=> $status, 'msg'=>$output));
 
 
-?>
+?>*/
